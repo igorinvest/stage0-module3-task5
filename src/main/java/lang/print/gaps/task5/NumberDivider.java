@@ -4,6 +4,6 @@ public class NumberDivider {
     void divide(int toBeDivided) {
         int d = 5;
         double devi = (double)toBeDivided / d;
-        System.out.print(devi);
+        System.out.println(devi);
     }
 }
